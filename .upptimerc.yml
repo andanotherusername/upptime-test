@@ -8,6 +8,10 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
+  - name: It's FOSS
+    url: https://itsfoss.com
+  - name: Linux Handbook
+    url: https://linuxhandbook.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
