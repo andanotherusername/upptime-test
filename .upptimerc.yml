@@ -12,6 +12,10 @@ sites:
     url: https://itsfoss.com
   - name: Linux Handbook
     url: https://linuxhandbook.com
+  - name: Open Movies
+    url: https://openmovies.in
+  - name: Open Experiment
+    url: https://openexperiment.in
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
