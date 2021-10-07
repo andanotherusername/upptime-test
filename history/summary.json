@@ -42,10 +42,10 @@
     "url": "https://itsfoss.com",
     "icon": "https://favicons.githubusercontent.com/itsfoss.com",
     "slug": "it-s-foss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
@@ -54,6 +54,7 @@
     "timeMonth": 669,
     "timeYear": 310,
     "dailyMinutesDown": {
+      "2021-10-07": 1,
       "2021-07-23": 16
     }
   },
@@ -124,7 +125,7 @@
     "timeMonth": 0,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2021-10-07": 41,
+      "2021-10-07": 1017,
       "2021-10-06": 1440,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
