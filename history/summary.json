@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 88,
-    "timeDay": 120,
-    "timeWeek": 102,
+    "timeDay": 72,
+    "timeWeek": 93,
     "timeMonth": 90,
     "timeYear": 88,
     "dailyMinutesDown": {}
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 196,
-    "timeDay": 302,
-    "timeWeek": 211,
-    "timeMonth": 207,
+    "time": 195,
+    "timeDay": 162,
+    "timeWeek": 201,
+    "timeMonth": 202,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2021-11-29": 17,
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 511,
-    "timeDay": 580,
-    "timeWeek": 625,
-    "timeMonth": 629,
-    "timeYear": 517,
+    "time": 512,
+    "timeDay": 652,
+    "timeWeek": 639,
+    "timeMonth": 625,
+    "timeYear": 518,
     "dailyMinutesDown": {
       "2021-11-02": 97,
       "2021-07-23": 16
@@ -71,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1168,
-    "timeDay": 1135,
-    "timeWeek": 1052,
-    "timeMonth": 1093,
-    "timeYear": 1183,
+    "timeDay": 1151,
+    "timeWeek": 1050,
+    "timeMonth": 1091,
+    "timeYear": 1185,
     "dailyMinutesDown": {
       "2021-05-06": 16,
       "2021-05-04": 24,
@@ -98,8 +98,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1115,
-    "timeDay": 1253,
-    "timeWeek": 1169,
+    "timeDay": 1173,
+    "timeWeek": 1161,
     "timeMonth": 1150,
     "timeYear": 1112,
     "dailyMinutesDown": {
@@ -126,7 +126,8 @@
     "timeMonth": 0,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2022-01-07": 47,
+      "2022-01-08": 43,
+      "2022-01-07": 1440,
       "2022-01-06": 1440,
       "2022-01-05": 1440,
       "2022-01-04": 1440,
@@ -489,8 +490,7 @@
       "2021-01-12": 1440,
       "2021-01-11": 1440,
       "2021-01-10": 1440,
-      "2021-01-09": 1440,
-      "2021-01-08": 1440
+      "2021-01-09": 1440
     }
   }
 ]
