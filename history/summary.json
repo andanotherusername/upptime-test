@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 215,
-    "timeWeek": 139,
-    "timeMonth": 115,
+    "timeDay": 59,
+    "timeWeek": 138,
+    "timeMonth": 117,
     "timeYear": 91,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 195,
-    "timeDay": 157,
-    "timeWeek": 160,
-    "timeMonth": 181,
-    "timeYear": 201,
+    "timeDay": 258,
+    "timeWeek": 174,
+    "timeMonth": 184,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2021-11-29": 17,
       "2021-08-17": 19
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 532,
-    "timeDay": 862,
-    "timeWeek": 785,
-    "timeMonth": 724,
-    "timeYear": 562,
+    "timeDay": 515,
+    "timeWeek": 736,
+    "timeMonth": 740,
+    "timeYear": 563,
     "dailyMinutesDown": {
       "2021-11-02": 97,
       "2021-07-23": 16
@@ -71,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1157,
-    "timeDay": 1146,
-    "timeWeek": 971,
-    "timeMonth": 1032,
-    "timeYear": 1147,
+    "timeDay": 1155,
+    "timeWeek": 1030,
+    "timeMonth": 1018,
+    "timeYear": 1146,
     "dailyMinutesDown": {
       "2021-05-06": 16,
       "2021-05-04": 24
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1119,
-    "timeDay": 1486,
-    "timeWeek": 1185,
-    "timeMonth": 1139,
+    "timeDay": 1040,
+    "timeWeek": 1172,
+    "timeMonth": 1127,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2021-07-30": 16
@@ -109,7 +109,7 @@
     "uptime": "0.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.07%",
     "time": 1280,
     "timeDay": 0,
@@ -117,7 +117,8 @@
     "timeMonth": 0,
     "timeYear": 1623,
     "dailyMinutesDown": {
-      "2022-02-28": 50,
+      "2022-03-01": 55,
+      "2022-02-28": 1440,
       "2022-02-27": 1440,
       "2022-02-26": 1440,
       "2022-02-25": 1440,
@@ -480,8 +481,7 @@
       "2021-03-05": 1440,
       "2021-03-04": 1440,
       "2021-03-03": 1440,
-      "2021-03-02": 1440,
-      "2021-03-01": 1440
+      "2021-03-02": 1440
     }
   }
 ]
