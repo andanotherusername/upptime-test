@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 128,
-    "timeWeek": 86,
+    "timeDay": 75,
+    "timeWeek": 85,
     "timeMonth": 86,
     "timeYear": 92,
     "dailyMinutesDown": {}
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 188,
-    "timeDay": 193,
-    "timeWeek": 140,
-    "timeMonth": 137,
+    "time": 187,
+    "timeDay": 109,
+    "timeWeek": 145,
+    "timeMonth": 133,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2022-03-08": 21,
@@ -52,10 +52,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 533,
-    "timeDay": 259,
-    "timeWeek": 263,
-    "timeMonth": 409,
-    "timeYear": 605,
+    "timeDay": 404,
+    "timeWeek": 265,
+    "timeMonth": 405,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2022-04-10": 22,
       "2021-11-02": 97,
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1144,
-    "timeDay": 682,
-    "timeWeek": 877,
-    "timeMonth": 955,
+    "time": 1145,
+    "timeDay": 1143,
+    "timeWeek": 886,
+    "timeMonth": 967,
     "timeYear": 1086,
     "dailyMinutesDown": {
       "2021-05-06": 16,
@@ -95,10 +95,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1122,
-    "timeDay": 1229,
-    "timeWeek": 1145,
-    "timeMonth": 1139,
-    "timeYear": 1136,
+    "timeDay": 1146,
+    "timeWeek": 1143,
+    "timeMonth": 1141,
+    "timeYear": 1137,
     "dailyMinutesDown": {
       "2021-07-30": 16
     }
@@ -120,7 +120,8 @@
     "timeMonth": 0,
     "timeYear": 1623,
     "dailyMinutesDown": {
-      "2022-04-24": 58,
+      "2022-04-25": 58,
+      "2022-04-24": 1440,
       "2022-04-23": 1440,
       "2022-04-22": 1440,
       "2022-04-21": 1440,
@@ -483,8 +484,7 @@
       "2021-04-29": 1440,
       "2021-04-28": 1084,
       "2021-04-27": 1440,
-      "2021-04-26": 1440,
-      "2021-04-25": 1440
+      "2021-04-26": 1440
     }
   }
 ]
