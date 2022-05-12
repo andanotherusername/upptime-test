@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 101,
-    "timeWeek": 87,
-    "timeMonth": 89,
+    "timeDay": 75,
+    "timeWeek": 76,
+    "timeMonth": 88,
     "timeYear": 93,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 187,
-    "timeDay": 29,
-    "timeWeek": 125,
-    "timeMonth": 167,
-    "timeYear": 204,
+    "time": 186,
+    "timeDay": 75,
+    "timeWeek": 118,
+    "timeMonth": 165,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2022-03-08": 21,
       "2022-03-01": 26,
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 527,
-    "timeDay": 410,
-    "timeWeek": 282,
-    "timeMonth": 257,
-    "timeYear": 609,
+    "time": 528,
+    "timeDay": 377,
+    "timeWeek": 304,
+    "timeMonth": 261,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2022-04-10": 22,
       "2021-11-02": 97,
@@ -74,10 +74,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1154,
-    "timeDay": 1157,
-    "timeWeek": 1073,
-    "timeMonth": 979,
-    "timeYear": 1080,
+    "timeDay": 1107,
+    "timeWeek": 1058,
+    "timeMonth": 992,
+    "timeYear": 1079,
     "dailyMinutesDown": {}
   },
   {
@@ -91,10 +91,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1122,
-    "timeDay": 1115,
-    "timeWeek": 1125,
-    "timeMonth": 1151,
+    "time": 1121,
+    "timeDay": 1158,
+    "timeWeek": 1115,
+    "timeMonth": 1149,
     "timeYear": 1145,
     "dailyMinutesDown": {
       "2021-07-30": 16
@@ -117,7 +117,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-11": 72,
+      "2022-05-12": 68,
+      "2022-05-11": 1440,
       "2022-05-10": 1440,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
@@ -480,8 +481,7 @@
       "2021-05-16": 1440,
       "2021-05-15": 1440,
       "2021-05-14": 1440,
-      "2021-05-13": 1440,
-      "2021-05-12": 1440
+      "2021-05-13": 1440
     }
   }
 ]
