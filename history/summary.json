@@ -67,18 +67,20 @@
     "url": "https://linuxhandbook.com",
     "icon": "https://favicons.githubusercontent.com/linuxhandbook.com",
     "slug": "linux-handbook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1148,
-    "timeDay": 1181,
-    "timeWeek": 1104,
-    "timeMonth": 1099,
+    "time": 1147,
+    "timeDay": 1063,
+    "timeWeek": 1084,
+    "timeMonth": 1094,
     "timeYear": 1080,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-24": 0
+    }
   },
   {
     "name": "Open Movies",
@@ -117,7 +119,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-24": 70,
+      "2022-05-24": 690,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
       "2022-05-21": 1440,
