@@ -104,9 +104,9 @@
     "url": "https://openmovies.in",
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
-    "status": "up",
+    "status": "down",
     "uptime": "91.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.21%",
@@ -116,6 +116,7 @@
     "timeMonth": 1227,
     "timeYear": 1201,
     "dailyMinutesDown": {
+      "2022-11-26": 0,
       "2022-09-22": 266,
       "2022-09-21": 1440,
       "2022-09-20": 544,
@@ -196,7 +197,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-26": 59,
+      "2022-11-26": 909,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
