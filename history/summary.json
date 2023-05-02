@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 150,
-    "timeWeek": 150,
+    "timeDay": 94,
+    "timeWeek": 152,
     "timeMonth": 122,
     "timeYear": 115,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 128,
-    "timeWeek": 95,
-    "timeMonth": 163,
-    "timeYear": 203,
+    "timeDay": 278,
+    "timeWeek": 125,
+    "timeMonth": 161,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "97.42%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.83%",
-    "time": 419,
-    "timeDay": 487,
-    "timeWeek": 653,
-    "timeMonth": 571,
-    "timeYear": 370,
+    "time": 420,
+    "timeDay": 650,
+    "timeWeek": 674,
+    "timeMonth": 578,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2023-04-30": 38,
       "2023-04-29": 222,
@@ -78,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
-    "time": 792,
-    "timeDay": 906,
-    "timeWeek": 779,
-    "timeMonth": 743,
-    "timeYear": 730,
+    "time": 791,
+    "timeDay": 640,
+    "timeWeek": 751,
+    "timeMonth": 741,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2022-09-26": 57,
       "2022-07-03": 42,
@@ -109,18 +109,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "74.83%",
+    "uptime": "74.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "41.63%",
+    "uptimeYear": "41.36%",
     "time": 1209,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1260,
+    "timeYear": 1261,
     "dailyMinutesDown": {
-      "2023-05-01": 59,
+      "2023-05-02": 56,
+      "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
@@ -357,7 +358,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-01": 59,
+      "2023-05-02": 56,
+      "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
@@ -720,8 +722,7 @@
       "2022-05-06": 1440,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
-      "2022-05-03": 1440,
-      "2022-05-02": 1440
+      "2022-05-03": 1440
     }
   }
 ]
