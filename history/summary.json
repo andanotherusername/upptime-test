@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 71,
-    "timeWeek": 74,
-    "timeMonth": 91,
+    "timeDay": 102,
+    "timeWeek": 79,
+    "timeMonth": 92,
     "timeYear": 116,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 160,
-    "timeWeek": 169,
-    "timeMonth": 201,
+    "timeDay": 103,
+    "timeWeek": 154,
+    "timeMonth": 200,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 393,
-    "timeDay": 349,
-    "timeWeek": 561,
-    "timeMonth": 533,
-    "timeYear": 421,
+    "timeDay": 456,
+    "timeWeek": 463,
+    "timeMonth": 532,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2023-05-13": 16,
       "2023-04-30": 38,
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 751,
-    "timeDay": 475,
-    "timeWeek": 734,
-    "timeMonth": 756,
-    "timeYear": 724,
+    "time": 750,
+    "timeDay": 984,
+    "timeWeek": 767,
+    "timeMonth": 758,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2022-09-26": 57
     }
@@ -90,18 +90,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "69.65%",
+    "uptime": "69.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "24.37%",
-    "time": 1228,
+    "uptimeYear": "24.10%",
+    "time": 1227,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1239,
+    "timeYear": 1241,
     "dailyMinutesDown": {
-      "2023-07-03": 71,
+      "2023-07-04": 71,
+      "2023-07-03": 1440,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
@@ -400,7 +401,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-03": 71,
+      "2023-07-04": 71,
+      "2023-07-03": 1440,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
@@ -763,8 +765,7 @@
       "2022-07-08": 1440,
       "2022-07-07": 1440,
       "2022-07-06": 1440,
-      "2022-07-05": 1440,
-      "2022-07-04": 1440
+      "2022-07-05": 1440
     }
   }
 ]
