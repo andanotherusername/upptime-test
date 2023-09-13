@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 115,
-    "timeDay": 63,
-    "timeWeek": 123,
+    "timeDay": 94,
+    "timeWeek": 117,
     "timeMonth": 149,
     "timeYear": 123,
     "dailyMinutesDown": {
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 177,
-    "timeWeek": 154,
-    "timeMonth": 177,
-    "timeYear": 208,
+    "timeDay": 68,
+    "timeWeek": 139,
+    "timeMonth": 172,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 430,
-    "timeDay": 962,
-    "timeWeek": 689,
-    "timeMonth": 616,
-    "timeYear": 479,
+    "timeDay": 467,
+    "timeWeek": 660,
+    "timeMonth": 614,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2023-07-21": 15,
       "2023-05-13": 16,
@@ -80,10 +80,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 729,
-    "timeDay": 692,
-    "timeWeek": 755,
-    "timeMonth": 848,
-    "timeYear": 746,
+    "timeDay": 877,
+    "timeWeek": 792,
+    "timeMonth": 847,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2022-09-26": 57
     }
@@ -94,18 +94,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "64.61%",
+    "uptime": "64.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.28%",
-    "time": 1265,
+    "uptimeYear": "20.01%",
+    "time": 1267,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1198,
+    "timeYear": 1202,
     "dailyMinutesDown": {
-      "2023-09-12": 46,
+      "2023-09-13": 49,
+      "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
@@ -418,7 +419,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-12": 46,
+      "2023-09-13": 49,
+      "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
@@ -781,8 +783,7 @@
       "2022-09-17": 1440,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
-      "2022-09-14": 1440,
-      "2022-09-13": 1440
+      "2022-09-14": 1440
     }
   }
 ]
