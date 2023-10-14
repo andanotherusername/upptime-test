@@ -73,10 +73,10 @@
     "url": "https://linuxhandbook.com",
     "icon": "https://icons.duckduckgo.com/ip3/linuxhandbook.com.ico",
     "slug": "linux-handbook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 739,
@@ -84,7 +84,9 @@
     "timeWeek": 767,
     "timeMonth": 726,
     "timeYear": 744,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-14": 1
+    }
   },
   {
     "name": "Open Movies",
@@ -92,18 +94,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "62.67%",
+    "uptime": "62.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.80%",
-    "uptimeYear": "12.23%",
+    "uptimeYear": "12.14%",
     "time": 1084,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 595,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2023-10-14": 47,
+      "2023-10-14": 507,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
@@ -445,7 +447,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-14": 47,
+      "2023-10-14": 507,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
