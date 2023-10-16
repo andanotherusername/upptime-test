@@ -73,19 +73,19 @@
     "url": "https://linuxhandbook.com",
     "icon": "https://icons.duckduckgo.com/ip3/linuxhandbook.com.ico",
     "slug": "linux-handbook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 739,
+    "time": 740,
     "timeDay": 491,
     "timeWeek": 621,
     "timeMonth": 681,
     "timeYear": 739,
     "dailyMinutesDown": {
-      "2023-10-16": 38
+      "2023-10-16": 39
     }
   },
   {
@@ -98,14 +98,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.80%",
-    "uptimeYear": "11.59%",
+    "uptimeYear": "11.58%",
     "time": 1067,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 595,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2023-10-16": 555,
+      "2023-10-16": 598,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -449,7 +449,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-16": 555,
+      "2023-10-16": 598,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
