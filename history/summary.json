@@ -73,19 +73,19 @@
     "url": "https://linuxhandbook.com",
     "icon": "https://icons.duckduckgo.com/ip3/linuxhandbook.com.ico",
     "slug": "linux-handbook",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 739,
-    "timeDay": 551,
-    "timeWeek": 655,
-    "timeMonth": 693,
-    "timeYear": 741,
+    "timeDay": 491,
+    "timeWeek": 621,
+    "timeMonth": 681,
+    "timeYear": 739,
     "dailyMinutesDown": {
-      "2023-10-16": 1
+      "2023-10-16": 38
     }
   },
   {
@@ -94,7 +94,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "62.53%",
+    "uptime": "62.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.80%",
@@ -105,7 +105,7 @@
     "timeMonth": 595,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2023-10-16": 517,
+      "2023-10-16": 555,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -449,7 +449,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-16": 517,
+      "2023-10-16": 555,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
