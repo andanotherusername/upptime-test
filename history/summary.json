@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 70,
-    "timeWeek": 134,
+    "timeDay": 65,
+    "timeWeek": 130,
     "timeMonth": 119,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 221,
-    "timeWeek": 176,
-    "timeMonth": 197,
+    "timeDay": 215,
+    "timeWeek": 192,
+    "timeMonth": 188,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 456,
-    "timeDay": 403,
-    "timeWeek": 553,
-    "timeMonth": 557,
-    "timeYear": 503,
+    "timeDay": 529,
+    "timeWeek": 492,
+    "timeMonth": 560,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2023-07-21": 15,
       "2023-05-13": 16,
@@ -79,11 +79,11 @@
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 739,
-    "timeDay": 529,
-    "timeWeek": 526,
-    "timeMonth": 647,
-    "timeYear": 735,
+    "time": 738,
+    "timeDay": 494,
+    "timeWeek": 487,
+    "timeMonth": 645,
+    "timeYear": 734,
     "dailyMinutesDown": {
       "2023-10-16": 55
     }
@@ -94,18 +94,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "62.18%",
+    "uptime": "62.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "3.32%",
-    "uptimeYear": "10.04%",
+    "uptimeMonth": "1.70%",
+    "uptimeYear": "9.76%",
     "time": 1055,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 879,
-    "timeYear": 867,
+    "timeMonth": 2607,
+    "timeYear": 864,
     "dailyMinutesDown": {
-      "2023-10-22": 52,
+      "2023-10-23": 49,
+      "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
@@ -455,7 +456,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-22": 52,
+      "2023-10-23": 49,
+      "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
@@ -818,8 +820,7 @@
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
-      "2022-10-24": 1440,
-      "2022-10-23": 1440
+      "2022-10-24": 1440
     }
   }
 ]
