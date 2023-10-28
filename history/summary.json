@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 119,
-    "timeDay": 356,
-    "timeWeek": 153,
+    "timeDay": 79,
+    "timeWeek": 149,
     "timeMonth": 130,
-    "timeYear": 127,
+    "timeYear": 126,
     "dailyMinutesDown": {
       "2023-08-16": 16,
       "2023-07-24": 31
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 236,
-    "timeWeek": 205,
-    "timeMonth": 182,
+    "timeDay": 138,
+    "timeWeek": 214,
+    "timeMonth": 183,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -52,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 458,
-    "timeDay": 585,
-    "timeWeek": 491,
+    "timeDay": 484,
+    "timeWeek": 490,
     "timeMonth": 562,
     "timeYear": 507,
     "dailyMinutesDown": {
@@ -79,10 +79,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 735,
-    "timeDay": 710,
-    "timeWeek": 521,
-    "timeMonth": 639,
+    "time": 736,
+    "timeDay": 798,
+    "timeWeek": 599,
+    "timeMonth": 635,
     "timeYear": 733,
     "dailyMinutesDown": {
       "2023-10-16": 55
@@ -94,18 +94,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "61.88%",
+    "uptime": "61.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "8.67%",
-    "time": 1052,
+    "uptimeYear": "8.39%",
+    "time": 1051,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 845,
+    "timeYear": 838,
     "dailyMinutesDown": {
-      "2023-10-27": 47,
+      "2023-10-28": 46,
+      "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -460,7 +461,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-27": 47,
+      "2023-10-28": 46,
+      "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -823,8 +825,7 @@
       "2022-11-01": 1440,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
-      "2022-10-29": 1440,
-      "2022-10-28": 1440
+      "2022-10-29": 1440
     }
   }
 ]
