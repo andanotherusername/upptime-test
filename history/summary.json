@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 70,
-    "timeWeek": 70,
-    "timeMonth": 92,
+    "timeDay": 68,
+    "timeWeek": 69,
+    "timeMonth": 91,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2023-08-16": 16,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 200,
-    "timeWeek": 208,
-    "timeMonth": 203,
+    "timeDay": 174,
+    "timeWeek": 199,
+    "timeMonth": 200,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.84%",
-    "time": 483,
-    "timeDay": 697,
-    "timeWeek": 642,
-    "timeMonth": 603,
-    "timeYear": 536,
+    "time": 484,
+    "timeDay": 713,
+    "timeWeek": 662,
+    "timeMonth": 615,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2023-11-18": 16,
       "2023-07-21": 15,
@@ -81,9 +81,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.97%",
     "time": 729,
-    "timeDay": 291,
-    "timeWeek": 651,
-    "timeMonth": 647,
+    "timeDay": 596,
+    "timeWeek": 643,
+    "timeMonth": 658,
     "timeYear": 730,
     "dailyMinutesDown": {
       "2023-11-18": 89,
@@ -96,10 +96,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "59.89%",
+    "uptime": "59.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.28%",
     "time": 1012,
     "timeDay": 0,
@@ -107,7 +107,8 @@
     "timeMonth": 0,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2023-11-30": 52,
+      "2023-12-01": 56,
+      "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
@@ -470,8 +471,7 @@
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
-      "2022-12-02": 1440,
-      "2022-12-01": 1440
+      "2022-12-02": 1440
     }
   },
   {
@@ -483,7 +483,7 @@
     "uptime": "0.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -491,7 +491,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-30": 52,
+      "2023-12-01": 56,
+      "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
@@ -854,8 +855,7 @@
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
-      "2022-12-02": 1440,
-      "2022-12-01": 1440
+      "2022-12-02": 1440
     }
   }
 ]
