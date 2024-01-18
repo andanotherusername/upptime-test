@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 121,
-    "timeDay": 83,
+    "timeDay": 72,
     "timeWeek": 76,
     "timeMonth": 116,
     "timeYear": 113,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 279,
-    "timeWeek": 267,
-    "timeMonth": 232,
+    "timeDay": 182,
+    "timeWeek": 264,
+    "timeMonth": 226,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 503,
-    "timeDay": 627,
-    "timeWeek": 638,
-    "timeMonth": 1035,
+    "timeDay": 512,
+    "timeWeek": 647,
+    "timeMonth": 1037,
     "timeYear": 616,
     "dailyMinutesDown": {
       "2023-11-18": 16,
@@ -79,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 720,
-    "timeDay": 309,
-    "timeWeek": 593,
-    "timeMonth": 633,
+    "timeDay": 592,
+    "timeWeek": 592,
+    "timeMonth": 634,
     "timeYear": 721,
     "dailyMinutesDown": {
       "2023-11-18": 89,
@@ -94,7 +94,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "57.30%",
+    "uptime": "57.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -105,7 +105,8 @@
     "timeMonth": 0,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2024-01-17": 53,
+      "2024-01-18": 52,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -468,8 +469,7 @@
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
-      "2023-01-19": 1440,
-      "2023-01-18": 1440
+      "2023-01-19": 1440
     }
   },
   {
@@ -489,7 +489,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-17": 53,
+      "2024-01-18": 52,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -852,8 +853,7 @@
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
-      "2023-01-19": 1440,
-      "2023-01-18": 1440
+      "2023-01-19": 1440
     }
   }
 ]
