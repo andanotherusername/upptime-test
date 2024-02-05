@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 121,
-    "timeDay": 61,
-    "timeWeek": 76,
-    "timeMonth": 105,
-    "timeYear": 113,
+    "timeDay": 72,
+    "timeWeek": 72,
+    "timeMonth": 95,
+    "timeYear": 112,
     "dailyMinutesDown": {
       "2023-08-16": 16,
       "2023-07-24": 31
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 194,
-    "timeWeek": 287,
-    "timeMonth": 254,
-    "timeYear": 214,
+    "timeDay": 242,
+    "timeWeek": 270,
+    "timeMonth": 258,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 512,
-    "timeDay": 518,
-    "timeWeek": 564,
-    "timeMonth": 576,
+    "timeDay": 449,
+    "timeWeek": 562,
+    "timeMonth": 574,
     "timeYear": 622,
     "dailyMinutesDown": {
       "2023-11-18": 16,
@@ -75,7 +75,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 714,
-    "timeDay": 544,
+    "timeDay": 572,
     "timeWeek": 572,
     "timeMonth": 614,
     "timeYear": 717,
@@ -90,18 +90,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "56.38%",
+    "uptime": "56.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.28%",
-    "time": 967,
+    "time": 966,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2024-02-04": 53,
+      "2024-02-05": 51,
+      "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
@@ -464,8 +465,7 @@
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
-      "2023-02-06": 1440,
-      "2023-02-05": 1440
+      "2023-02-06": 1440
     }
   },
   {
@@ -485,7 +485,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-04": 53,
+      "2024-02-05": 51,
+      "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
@@ -848,8 +849,7 @@
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
-      "2023-02-06": 1440,
-      "2023-02-05": 1440
+      "2023-02-06": 1440
     }
   }
 ]
