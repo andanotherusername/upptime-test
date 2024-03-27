@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 383,
-    "timeWeek": 122,
+    "timeDay": 80,
+    "timeWeek": 120,
     "timeMonth": 105,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 187,
-    "timeWeek": 158,
-    "timeMonth": 202,
+    "timeDay": 184,
+    "timeWeek": 163,
+    "timeMonth": 203,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 644,
-    "timeDay": 412,
-    "timeWeek": 487,
-    "timeMonth": 600,
+    "timeDay": 592,
+    "timeWeek": 486,
+    "timeMonth": 601,
     "timeYear": 665,
     "dailyMinutesDown": {
       "2024-02-16": 34,
@@ -75,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 704,
-    "timeDay": 612,
-    "timeWeek": 674,
-    "timeMonth": 644,
+    "timeDay": 542,
+    "timeWeek": 629,
+    "timeMonth": 636,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2023-11-18": 89,
@@ -90,18 +90,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "53.94%",
+    "uptime": "53.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.01%",
-    "time": 818,
+    "time": 811,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2024-03-26": 49,
+      "2024-03-27": 49,
+      "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
@@ -464,8 +465,7 @@
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
-      "2023-03-29": 1440,
-      "2023-03-28": 1440
+      "2023-03-29": 1440
     }
   },
   {
@@ -485,7 +485,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-26": 49,
+      "2024-03-27": 49,
+      "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
@@ -848,8 +849,7 @@
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
-      "2023-03-29": 1440,
-      "2023-03-28": 1440
+      "2023-03-29": 1440
     }
   }
 ]
