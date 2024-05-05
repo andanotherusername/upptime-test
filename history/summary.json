@@ -11,8 +11,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 113,
-    "timeDay": 83,
-    "timeWeek": 132,
+    "timeDay": 81,
+    "timeWeek": 119,
     "timeMonth": 136,
     "timeYear": 113,
     "dailyMinutesDown": {
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 183,
-    "timeWeek": 225,
-    "timeMonth": 231,
+    "timeDay": 209,
+    "timeWeek": 229,
+    "timeMonth": 227,
     "timeYear": 223,
     "dailyMinutesDown": {}
   },
@@ -48,13 +48,13 @@
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 635,
-    "timeDay": 1057,
-    "timeWeek": 1084,
-    "timeMonth": 980,
-    "timeYear": 706,
+    "time": 636,
+    "timeDay": 670,
+    "timeWeek": 936,
+    "timeMonth": 990,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2024-04-08": 18,
       "2024-04-04": 22,
@@ -71,16 +71,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/linuxhandbook.com.ico",
     "slug": "linux-handbook",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 699,
-    "timeDay": 553,
-    "timeWeek": 543,
-    "timeMonth": 648,
-    "timeYear": 697,
+    "time": 698,
+    "timeDay": 550,
+    "timeWeek": 534,
+    "timeMonth": 635,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2023-11-18": 89,
       "2023-10-16": 55
@@ -92,7 +92,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "52.21%",
+    "uptime": "52.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -103,7 +103,8 @@
     "timeMonth": 0,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2024-05-04": 51,
+      "2024-05-05": 55,
+      "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
@@ -466,8 +467,7 @@
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
-      "2023-05-07": 1440,
-      "2023-05-06": 1440
+      "2023-05-07": 1440
     }
   },
   {
@@ -487,7 +487,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-04": 51,
+      "2024-05-05": 55,
+      "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
@@ -850,8 +851,7 @@
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
-      "2023-05-07": 1440,
-      "2023-05-06": 1440
+      "2023-05-07": 1440
     }
   }
 ]
