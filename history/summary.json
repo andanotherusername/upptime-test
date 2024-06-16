@@ -12,8 +12,8 @@
     "uptimeYear": "99.98%",
     "time": 113,
     "timeDay": 66,
-    "timeWeek": 101,
-    "timeMonth": 121,
+    "timeWeek": 92,
+    "timeMonth": 119,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2024-05-01": 40,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 155,
-    "timeWeek": 250,
-    "timeMonth": 256,
+    "timeDay": 152,
+    "timeWeek": 248,
+    "timeMonth": 255,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -51,10 +51,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 788,
-    "timeDay": 748,
-    "timeWeek": 785,
-    "timeMonth": 1908,
-    "timeYear": 881,
+    "timeDay": 438,
+    "timeWeek": 763,
+    "timeMonth": 1903,
+    "timeYear": 882,
     "dailyMinutesDown": {
       "2024-06-05": 21,
       "2024-06-03": 17,
@@ -79,10 +79,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 696,
-    "timeDay": 578,
-    "timeWeek": 666,
-    "timeMonth": 691,
-    "timeYear": 693,
+    "timeDay": 601,
+    "timeWeek": 695,
+    "timeMonth": 690,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2024-05-30": 25,
       "2023-11-18": 89,
@@ -95,7 +95,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "50.46%",
+    "uptime": "50.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -106,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2024-06-15": 55,
+      "2024-06-16": 59,
+      "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -469,8 +470,7 @@
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
-      "2023-06-18": 1440,
-      "2023-06-17": 1440
+      "2023-06-18": 1440
     }
   },
   {
@@ -490,7 +490,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-15": 55,
+      "2024-06-16": 59,
+      "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -853,8 +854,7 @@
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
-      "2023-06-18": 1440,
-      "2023-06-17": 1440
+      "2023-06-18": 1440
     }
   }
 ]
