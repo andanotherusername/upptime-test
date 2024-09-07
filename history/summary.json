@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 65,
-    "timeWeek": 103,
+    "timeDay": 92,
+    "timeWeek": 106,
     "timeMonth": 100,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 368,
-    "timeWeek": 281,
-    "timeMonth": 261,
-    "timeYear": 220,
+    "timeDay": 223,
+    "timeWeek": 291,
+    "timeMonth": 262,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 837,
-    "timeDay": 782,
-    "timeWeek": 696,
-    "timeMonth": 602,
-    "timeYear": 957,
+    "time": 838,
+    "timeDay": 843,
+    "timeWeek": 693,
+    "timeMonth": 613,
+    "timeYear": 956,
     "dailyMinutesDown": {
       "2024-08-18": 20,
       "2024-08-01": 24,
@@ -78,10 +78,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 731,
-    "timeDay": 617,
-    "timeWeek": 801,
-    "timeMonth": 1047,
+    "time": 732,
+    "timeDay": 1199,
+    "timeWeek": 882,
+    "timeMonth": 1064,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2024-05-30": 25,
@@ -95,7 +95,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "47.34%",
+    "uptime": "47.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -106,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2024-09-06": 61,
+      "2024-09-07": 60,
+      "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -469,8 +470,7 @@
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
-      "2023-09-09": 1440,
-      "2023-09-08": 1440
+      "2023-09-09": 1440
     }
   },
   {
@@ -490,7 +490,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-06": 61,
+      "2024-09-07": 60,
+      "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -853,8 +854,7 @@
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
-      "2023-09-09": 1440,
-      "2023-09-08": 1440
+      "2023-09-09": 1440
     }
   }
 ]
