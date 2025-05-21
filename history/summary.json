@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 177,
-    "timeWeek": 110,
+    "timeDay": 99,
+    "timeWeek": 111,
     "timeMonth": 107,
     "timeYear": 108,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 149,
-    "timeWeek": 192,
-    "timeMonth": 183,
+    "timeDay": 288,
+    "timeWeek": 227,
+    "timeMonth": 187,
     "timeYear": 221,
     "dailyMinutesDown": {}
   },
@@ -42,17 +42,16 @@
     "slug": "it-s-foss",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.93%",
     "time": 725,
-    "timeDay": 474,
-    "timeWeek": 727,
-    "timeMonth": 638,
-    "timeYear": 622,
+    "timeDay": 628,
+    "timeWeek": 765,
+    "timeMonth": 651,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2025-05-20": 8,
       "2025-05-03": 138,
       "2025-04-25": 21,
       "2025-04-22": 16,
@@ -79,10 +78,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 782,
-    "timeDay": 764,
-    "timeWeek": 778,
-    "timeMonth": 762,
-    "timeYear": 837,
+    "timeDay": 1166,
+    "timeWeek": 793,
+    "timeMonth": 774,
+    "timeYear": 838,
     "dailyMinutesDown": {
       "2024-05-30": 25
     }
@@ -94,15 +93,15 @@
     "slug": "open-movies",
     "status": "up",
     "uptime": "39.76%",
-    "uptimeDay": "43.60%",
-    "uptimeWeek": "6.23%",
-    "uptimeMonth": "2.81%",
-    "uptimeYear": "0.12%",
-    "time": 1925,
-    "timeDay": 1925,
-    "timeWeek": 1925,
-    "timeMonth": 1925,
-    "timeYear": 1925,
+    "uptimeDay": "65.82%",
+    "uptimeWeek": "9.40%",
+    "uptimeMonth": "3.54%",
+    "uptimeYear": "0.18%",
+    "time": 1862,
+    "timeDay": 1862,
+    "timeWeek": 1862,
+    "timeMonth": 1862,
+    "timeYear": 1862,
     "dailyMinutesDown": {
       "2025-05-20": 568,
       "2025-05-19": 1440,
@@ -467,8 +466,7 @@
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
-      "2024-05-22": 1440,
-      "2024-05-21": 1440
+      "2024-05-22": 1440
     }
   },
   {
@@ -488,7 +486,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-20": 1196,
+      "2025-05-21": 76,
+      "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
@@ -851,8 +850,7 @@
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
-      "2024-05-22": 1440,
-      "2024-05-21": 1440
+      "2024-05-22": 1440
     }
   }
 ]
