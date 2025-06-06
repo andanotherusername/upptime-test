@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 92,
-    "timeWeek": 110,
-    "timeMonth": 111,
+    "timeDay": 161,
+    "timeWeek": 118,
+    "timeMonth": 110,
     "timeYear": 108,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 112,
-    "timeWeek": 191,
-    "timeMonth": 217,
+    "timeDay": 176,
+    "timeWeek": 140,
+    "timeMonth": 221,
     "timeYear": 218,
     "dailyMinutesDown": {}
   },
@@ -42,17 +42,16 @@
     "slug": "it-s-foss",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.94%",
     "time": 734,
-    "timeDay": 1189,
-    "timeWeek": 1086,
-    "timeMonth": 854,
+    "timeDay": 1222,
+    "timeWeek": 1079,
+    "timeMonth": 853,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2025-06-05": 9,
       "2025-05-03": 138,
       "2025-04-25": 21,
       "2025-04-22": 16,
@@ -77,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 787,
-    "timeDay": 1094,
-    "timeWeek": 784,
-    "timeMonth": 781,
+    "timeDay": 773,
+    "timeWeek": 741,
+    "timeMonth": 785,
     "timeYear": 841,
     "dailyMinutesDown": {}
   },
@@ -92,13 +91,13 @@
     "uptime": "40.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.52%",
-    "uptimeYear": "4.54%",
-    "time": 2012,
-    "timeDay": 2196,
-    "timeWeek": 2075,
-    "timeMonth": 2012,
-    "timeYear": 2012,
+    "uptimeMonth": "52.85%",
+    "uptimeYear": "4.56%",
+    "time": 2020,
+    "timeDay": 2150,
+    "timeWeek": 2036,
+    "timeMonth": 2020,
+    "timeYear": 2020,
     "dailyMinutesDown": {
       "2025-05-20": 568,
       "2025-05-19": 1440,
@@ -447,8 +446,7 @@
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
-      "2024-06-07": 1440,
-      "2024-06-06": 1440
+      "2024-06-07": 1440
     }
   },
   {
@@ -468,7 +466,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-05": 1370,
+      "2025-06-06": 76,
+      "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
@@ -831,8 +830,7 @@
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
-      "2024-06-07": 1440,
-      "2024-06-06": 1440
+      "2024-06-07": 1440
     }
   }
 ]
