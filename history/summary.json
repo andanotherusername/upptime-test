@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 104,
-    "timeWeek": 87,
-    "timeMonth": 104,
+    "timeDay": 83,
+    "timeWeek": 86,
+    "timeMonth": 103,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2025-07-07": 25
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 230,
-    "timeWeek": 169,
-    "timeMonth": 251,
+    "timeDay": 197,
+    "timeWeek": 170,
+    "timeMonth": 250,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -44,15 +44,15 @@
     "slug": "it-s-foss",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.44%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.89%",
-    "time": 758,
-    "timeDay": 2272,
-    "timeWeek": 1226,
-    "timeMonth": 1326,
-    "timeYear": 551,
+    "time": 760,
+    "timeDay": 1865,
+    "timeWeek": 1319,
+    "timeMonth": 1355,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2025-07-18": 23,
       "2025-07-14": 57,
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 811,
-    "timeDay": 982,
-    "timeWeek": 846,
-    "timeMonth": 940,
-    "timeYear": 853,
+    "time": 812,
+    "timeDay": 698,
+    "timeWeek": 838,
+    "timeMonth": 937,
+    "timeYear": 852,
     "dailyMinutesDown": {}
   },
   {
@@ -97,16 +97,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "up",
-    "uptime": "41.91%",
+    "uptime": "41.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.35%",
-    "time": 2262,
-    "timeDay": 2193,
-    "timeWeek": 1868,
-    "timeMonth": 2483,
-    "timeYear": 2262,
+    "uptimeYear": "16.62%",
+    "time": 2259,
+    "timeDay": 2036,
+    "timeWeek": 1939,
+    "timeMonth": 2478,
+    "timeYear": 2259,
     "dailyMinutesDown": {
       "2025-05-20": 568,
       "2025-05-19": 1440,
@@ -411,8 +411,7 @@
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
-      "2024-07-21": 1440,
-      "2024-07-20": 1440
+      "2024-07-21": 1440
     }
   },
   {
@@ -432,7 +431,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-19": 79,
+      "2025-07-20": 98,
+      "2025-07-19": 1440,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
@@ -795,8 +795,7 @@
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
-      "2024-07-21": 1440,
-      "2024-07-20": 1440
+      "2024-07-21": 1440
     }
   }
 ]
