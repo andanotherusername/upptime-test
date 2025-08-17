@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 83,
-    "timeWeek": 119,
-    "timeMonth": 111,
+    "timeDay": 111,
+    "timeWeek": 121,
+    "timeMonth": 112,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2025-07-07": 25
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 154,
-    "timeWeek": 172,
-    "timeMonth": 219,
+    "time": 220,
+    "timeDay": 366,
+    "timeWeek": 208,
+    "timeMonth": 229,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.88%",
     "time": 790,
-    "timeDay": 1527,
-    "timeWeek": 1292,
-    "timeMonth": 1286,
-    "timeYear": 598,
+    "timeDay": 1072,
+    "timeWeek": 1240,
+    "timeMonth": 1304,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2025-08-14": 18,
       "2025-07-28": 28,
@@ -81,18 +81,16 @@
     "slug": "linux-handbook",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 825,
-    "timeDay": 1012,
-    "timeWeek": 873,
-    "timeMonth": 857,
-    "timeYear": 853,
-    "dailyMinutesDown": {
-      "2025-08-16": 9
-    }
+    "timeDay": 897,
+    "timeWeek": 839,
+    "timeMonth": 860,
+    "timeYear": 852,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Open Movies",
@@ -100,16 +98,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "up",
-    "uptime": "42.87%",
+    "uptime": "42.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
-    "uptimeYear": "24.05%",
-    "time": 2961,
-    "timeDay": 2124,
-    "timeWeek": 2216,
-    "timeMonth": 4057,
-    "timeYear": 2961,
+    "uptimeYear": "24.21%",
+    "time": 2953,
+    "timeDay": 2174,
+    "timeWeek": 2219,
+    "timeMonth": 4065,
+    "timeYear": 2953,
     "dailyMinutesDown": {
       "2025-07-21": 422,
       "2025-05-20": 568,
@@ -387,8 +385,7 @@
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
-      "2024-08-18": 1440,
-      "2024-08-17": 1440
+      "2024-08-18": 1440
     }
   },
   {
@@ -408,7 +405,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-16": 701,
+      "2025-08-17": 84,
+      "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -771,8 +769,7 @@
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
-      "2024-08-18": 1440,
-      "2024-08-17": 1440
+      "2024-08-18": 1440
     }
   }
 ]
