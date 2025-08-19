@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 88,
-    "timeWeek": 114,
-    "timeMonth": 113,
+    "timeDay": 68,
+    "timeWeek": 109,
+    "timeMonth": 111,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2025-07-07": 25
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 69,
-    "timeWeek": 182,
-    "timeMonth": 222,
+    "time": 219,
+    "timeDay": 110,
+    "timeWeek": 169,
+    "timeMonth": 218,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -46,13 +46,13 @@
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.88%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 791,
-    "timeDay": 1042,
-    "timeWeek": 1234,
-    "timeMonth": 1304,
-    "timeYear": 598,
+    "timeDay": 1149,
+    "timeWeek": 1202,
+    "timeMonth": 1241,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2025-08-14": 18,
       "2025-07-28": 28,
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 825,
-    "timeDay": 679,
-    "timeWeek": 815,
-    "timeMonth": 860,
+    "timeDay": 691,
+    "timeWeek": 787,
+    "timeMonth": 851,
     "timeYear": 851,
     "dailyMinutesDown": {}
   },
@@ -97,16 +97,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "up",
-    "uptime": "42.93%",
+    "uptime": "42.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
-    "uptimeYear": "24.49%",
-    "time": 2945,
-    "timeDay": 2173,
-    "timeWeek": 2228,
-    "timeMonth": 4068,
-    "timeYear": 2945,
+    "uptimeYear": "24.76%",
+    "time": 2935,
+    "timeDay": 2004,
+    "timeWeek": 2153,
+    "timeMonth": 4063,
+    "timeYear": 2935,
     "dailyMinutesDown": {
       "2025-07-21": 422,
       "2025-05-20": 568,
@@ -382,8 +382,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   },
   {
@@ -403,7 +402,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-18": 83,
+      "2025-08-19": 75,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -766,8 +766,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   }
 ]
