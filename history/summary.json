@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 87,
-    "timeWeek": 95,
-    "timeMonth": 89,
+    "timeDay": 85,
+    "timeWeek": 96,
+    "timeMonth": 90,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2025-08-21": 15,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 131,
-    "timeWeek": 239,
-    "timeMonth": 268,
-    "timeYear": 215,
+    "time": 224,
+    "timeDay": 433,
+    "timeWeek": 295,
+    "timeMonth": 255,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
@@ -46,13 +46,13 @@
     "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.23%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.80%",
     "time": 940,
-    "timeDay": 1123,
-    "timeWeek": 6682,
-    "timeMonth": 3355,
+    "timeDay": 533,
+    "timeWeek": 1011,
+    "timeMonth": 3343,
     "timeYear": 861,
     "dailyMinutesDown": {
       "2025-09-17": 279,
@@ -86,17 +86,16 @@
     "slug": "linux-handbook",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 868,
-    "timeDay": 9124,
-    "timeWeek": 2691,
-    "timeMonth": 1264,
-    "timeYear": 870,
+    "timeDay": 8994,
+    "timeWeek": 2665,
+    "timeMonth": 1261,
+    "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-09-24": 10,
       "2025-09-23": 24,
       "2025-08-23": 59,
       "2025-08-19": 17
@@ -108,16 +107,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "up",
-    "uptime": "44.01%",
+    "uptime": "44.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "63.25%",
     "uptimeMonth": "91.54%",
-    "uptimeYear": "34.02%",
-    "time": 2692,
-    "timeDay": 470,
-    "timeWeek": 1237,
-    "timeMonth": 1960,
-    "timeYear": 2692,
+    "uptimeYear": "34.19%",
+    "time": 2673,
+    "timeDay": 193,
+    "timeWeek": 940,
+    "timeMonth": 1892,
+    "timeYear": 2673,
     "dailyMinutesDown": {
       "2025-09-23": 276,
       "2025-09-22": 1440,
@@ -360,8 +359,7 @@
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
-      "2024-09-26": 1440,
-      "2024-09-25": 1440
+      "2024-09-26": 1440
     }
   },
   {
@@ -381,7 +379,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-24": 648,
+      "2025-09-25": 70,
+      "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
@@ -744,8 +743,7 @@
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
-      "2024-09-26": 1440,
-      "2024-09-25": 1440
+      "2024-09-26": 1440
     }
   }
 ]
