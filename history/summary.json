@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 83,
-    "timeWeek": 105,
+    "timeDay": 85,
+    "timeWeek": 96,
     "timeMonth": 92,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 373,
-    "timeWeek": 228,
+    "time": 223,
+    "timeDay": 42,
+    "timeWeek": 209,
     "timeMonth": 264,
     "timeYear": 215,
     "dailyMinutesDown": {}
@@ -49,10 +49,10 @@
     "uptimeWeek": "99.15%",
     "uptimeMonth": "99.00%",
     "uptimeYear": "99.79%",
-    "time": 946,
-    "timeDay": 490,
-    "timeWeek": 1854,
-    "timeMonth": 3307,
+    "time": 893,
+    "timeDay": 491,
+    "timeWeek": 1806,
+    "timeMonth": 3279,
     "timeYear": 887,
     "dailyMinutesDown": {
       "2025-10-01": 50,
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 869,
-    "timeDay": 658,
-    "timeWeek": 724,
-    "timeMonth": 1273,
-    "timeYear": 866,
+    "time": 868,
+    "timeDay": 519,
+    "timeWeek": 703,
+    "timeMonth": 1264,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2025-09-23": 24,
       "2025-08-23": 59,
@@ -112,12 +112,12 @@
     "uptimeDay": "84.42%",
     "uptimeWeek": "97.43%",
     "uptimeMonth": "90.89%",
-    "uptimeYear": "36.30%",
-    "time": 2515,
-    "timeDay": 2552,
-    "timeWeek": 1439,
-    "timeMonth": 1571,
-    "timeYear": 2515,
+    "uptimeYear": "36.33%",
+    "time": 2500,
+    "timeDay": 2547,
+    "timeWeek": 1430,
+    "timeMonth": 1513,
+    "timeYear": 2500,
     "dailyMinutesDown": {
       "2025-10-02": 224,
       "2025-09-26": 34,
@@ -355,8 +355,7 @@
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
-      "2024-10-04": 1440,
-      "2024-10-03": 1440
+      "2024-10-04": 1440
     }
   },
   {
@@ -376,7 +375,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-02": 1354,
+      "2025-10-03": 68,
+      "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
@@ -739,8 +739,7 @@
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
-      "2024-10-04": 1440,
-      "2024-10-03": 1440
+      "2024-10-04": 1440
     }
   }
 ]
