@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 164,
-    "timeDay": 79,
-    "timeWeek": 3105,
-    "timeMonth": 960,
+    "timeDay": 75,
+    "timeWeek": 3095,
+    "timeMonth": 959,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2025-10-19": 17,
@@ -32,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 171,
-    "timeWeek": 215,
-    "timeMonth": 362,
+    "time": 230,
+    "timeDay": 71,
+    "timeWeek": 199,
+    "timeMonth": 363,
     "timeYear": 222,
     "dailyMinutesDown": {}
   },
@@ -51,10 +51,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.78%",
     "time": 890,
-    "timeDay": 777,
-    "timeWeek": 724,
-    "timeMonth": 714,
-    "timeYear": 925,
+    "timeDay": 897,
+    "timeWeek": 702,
+    "timeMonth": 726,
+    "timeYear": 927,
     "dailyMinutesDown": {
       "2025-10-14": 20,
       "2025-10-10": 19,
@@ -94,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 867,
-    "timeDay": 735,
-    "timeWeek": 749,
-    "timeMonth": 738,
-    "timeYear": 858,
+    "time": 866,
+    "timeDay": 639,
+    "timeWeek": 739,
+    "timeMonth": 741,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2025-09-23": 24,
       "2025-08-23": 59,
@@ -111,18 +111,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "44.27%",
+    "uptime": "44.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.70%",
+    "uptimeMonth": "40.93%",
     "uptimeYear": "39.90%",
     "time": 2277,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1092,
+    "timeMonth": 583,
     "timeYear": 2277,
     "dailyMinutesDown": {
-      "2025-11-02": 79,
+      "2025-11-03": 77,
+      "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
@@ -346,8 +347,7 @@
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
-      "2024-11-04": 1440,
-      "2024-11-03": 1440
+      "2024-11-04": 1440
     }
   },
   {
@@ -356,7 +356,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/openexperiment.in.ico",
     "slug": "open-experiment",
     "status": "down",
-    "uptime": "0.02%",
+    "uptime": "0.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -367,7 +367,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-02": 79,
+      "2025-11-03": 77,
+      "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
@@ -730,8 +731,7 @@
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
-      "2024-11-04": 1440,
-      "2024-11-03": 1440
+      "2024-11-04": 1440
     }
   }
 ]
