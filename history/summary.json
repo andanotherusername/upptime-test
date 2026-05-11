@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 169,
-    "timeDay": 107,
-    "timeWeek": 94,
-    "timeMonth": 96,
+    "timeDay": 76,
+    "timeWeek": 91,
+    "timeMonth": 94,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2026-01-18": 160,
@@ -35,10 +35,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 335,
-    "timeWeek": 204,
-    "timeMonth": 201,
+    "time": 204,
+    "timeDay": 113,
+    "timeWeek": 205,
+    "timeMonth": 195,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 779,
-    "timeDay": 191,
-    "timeWeek": 141,
-    "timeMonth": 143,
+    "timeDay": 157,
+    "timeWeek": 139,
+    "timeMonth": 140,
     "timeYear": 919,
     "dailyMinutesDown": {
       "2025-11-18": 157,
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 826,
-    "timeDay": 643,
-    "timeWeek": 767,
-    "timeMonth": 758,
+    "timeDay": 623,
+    "timeWeek": 758,
+    "timeMonth": 753,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2026-02-21": 41,
@@ -116,7 +116,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "39.98%",
+    "uptime": "39.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -127,7 +127,8 @@
     "timeMonth": 0,
     "timeYear": 2277,
     "dailyMinutesDown": {
-      "2026-05-10": 156,
+      "2026-05-11": 166,
+      "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
@@ -351,8 +352,7 @@
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
-      "2025-05-12": 1440,
-      "2025-05-11": 1440
+      "2025-05-12": 1440
     }
   },
   {
@@ -372,7 +372,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-10": 156,
+      "2026-05-11": 166,
+      "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
@@ -735,8 +736,7 @@
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
-      "2025-05-12": 1440,
-      "2025-05-11": 1440
+      "2025-05-12": 1440
     }
   }
 ]
