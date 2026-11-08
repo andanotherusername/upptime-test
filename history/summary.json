@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 161,
-    "timeDay": 72,
-    "timeWeek": 93,
-    "timeMonth": 83,
+    "timeDay": 108,
+    "timeWeek": 96,
+    "timeMonth": 85,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2025-11-13": 27,
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 296,
-    "timeWeek": 246,
-    "timeMonth": 203,
-    "timeYear": 177,
+    "timeDay": 393,
+    "timeWeek": 297,
+    "timeMonth": 212,
+    "timeYear": 178,
     "dailyMinutesDown": {}
   },
   {
@@ -52,13 +52,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 566,
-    "timeDay": 70,
-    "timeWeek": 97,
-    "timeMonth": 132,
-    "timeYear": 198,
+    "time": 564,
+    "timeDay": 174,
+    "timeWeek": 105,
+    "timeMonth": 136,
+    "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-11-08": 48,
       "2025-11-18": 157
     }
   },
@@ -68,15 +67,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/linuxhandbook.com.ico",
     "slug": "linux-handbook",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 872,
-    "timeDay": 633,
-    "timeWeek": 743,
-    "timeMonth": 1866,
+    "time": 873,
+    "timeDay": 989,
+    "timeWeek": 764,
+    "timeMonth": 1867,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2025-11-18": 167,
@@ -91,18 +90,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/openmovies.in.ico",
     "slug": "open-movies",
     "status": "down",
-    "uptime": "36.58%",
+    "uptime": "36.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1561,
+    "time": 1557,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-07": 265,
+      "2026-11-08": 248,
+      "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
@@ -465,8 +465,7 @@
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
-      "2025-11-09": 1440,
-      "2025-11-08": 1440
+      "2025-11-09": 1440
     }
   },
   {
@@ -486,7 +485,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-07": 265,
+      "2026-11-08": 248,
+      "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
@@ -849,8 +849,7 @@
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
-      "2025-11-09": 1440,
-      "2025-11-08": 1440
+      "2025-11-09": 1440
     }
   }
 ]
